@@ -1,0 +1,7 @@
+1. Run 'face_detectionv6.py' file
+2. Give the necessary inputs
+3. Once all is recorded that will be stored into 'recorded_fresh' folder
+4. After recording, run the 'format_videos.py' file
+5. After analysis, the files will be stored in 'format_videos' folder
+
+NOTE: Move the videos from 'recorded_fresh' to 'recorded_analyzed' folder after the analysis is done.
